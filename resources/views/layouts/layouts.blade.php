@@ -8,6 +8,6 @@
 
 @yield('campo_variabile');
 @include('layouts.errors');
-
+@include('layouts.footer');
 </body>
 </html>
